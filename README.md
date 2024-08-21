@@ -1,15 +1,19 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm [Harshad Ekawade!](https://github.com/harshadekawade)
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&vCenter=true&pause=1000&color=4493F8&width=510&lines=With+3%2B+Years+of+experience+in+IT+industry;Mobile+App+%7C+Web+Development;Always+learning+new+things" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&vCenter=true&pause=1000&color=4493F8&width=510&lines=With+3%2B+Years+of+experience+in+IT+industry;Mobile+App+%7C+Web+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
 <hr/>
 
 ### 🔥 Streak Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshadekawade&theme=blueberry_duo"/>
 
-### 📈 Github Stats
+### 🚀 Github Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshadekawade&layout=compact&&theme=github_dark"/>|<img src="https://github-readme-stats.vercel.app/api?username=harshadekawade&&show_icons=true&count_private=true&theme=github_dark">
 |---|---|
 
-### 🏆 Skills
+### 🏆 Certification
+|[![](https://img.shields.io/badge/HTML%20Fundamental-red?style=for-the-badge)](https://github.com/harshadekawade/harshadekawade/blob/main/SoloLearn/HTML_certificate.jpg)|[![](https://img.shields.io/badge/CSS%20Fundamental-blue?style=for-the-badge)](https://github.com/harshadekawade/harshadekawade/blob/main/SoloLearn/CSS_certificate.jpg)|[![](https://img.shields.io/badge/PHP%20Tutorials-green?style=for-the-badge)](https://github.com/harshadekawade/harshadekawade/blob/main/SoloLearn/PHP_certificate.jpg)|[![](https://img.shields.io/badge/SQL%20Fundamental-orange?style=for-the-badge)](https://github.com/harshadekawade/harshadekawade/blob/main/SoloLearn/SQL_certificate.jpg)|
+|---|---|---|---|
+
+### 🎯 Skills
 #### 👉 &nbsp;Mobile App Developement
 ![Flutter](https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white)&nbsp;
 ![Android](https://img.shields.io/badge/android-34A853?style=flat-square&logo=android&logoColor=white)&nbsp;
@@ -48,3 +52,13 @@
 ![Apache](https://img.shields.io/badge/apache-%23D22128.svg?style=flat-square&logo=apache&logoColor=white)&nbsp;
 ![Manual SSL](https://img.shields.io/badge/Manual%20SSL-%2334A853.svg?style=flat-square&logoColor=white)&nbsp;
 ![WebSocket](https://img.shields.io/badge/web%20socket-%234285F4.svg?style=flat-square&logoColor=white)&nbsp;
+<hr>
+<a target="_blank" href="https://www.linkedin.com/in/harshad-ekawade-74720122a"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:harshadekawade@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="https://leetcode.com/u/harshadekawade"><img src="https://img.shields.io/badge/leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"></img></a>
+<br>
+</p>
+
+#### Credits: [Harshad Ekawade](https://github.com/harshadekawade)
+
+Last Edited on: 21/08/2024
