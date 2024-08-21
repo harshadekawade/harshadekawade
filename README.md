@@ -3,10 +3,10 @@
 <hr/>
 
 ### 🔥 Streak Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshadekawade&theme=blueberry_duo"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshadekawade&theme=transparent"/>
 
 ### 🚀 Github Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshadekawade&layout=compact&&theme=github_dark"/>|<img src="https://github-readme-stats.vercel.app/api?username=harshadekawade&&show_icons=true&count_private=true&theme=github_dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshadekawade&layout=compact&theme=transparent"/>|<img src="https://github-readme-stats.vercel.app/api?username=harshadekawade&&show_icons=true&count_private=true&theme=transparent">
 |---|---|
 
 ### 🏆 Certification
