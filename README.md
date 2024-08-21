@@ -1,16 +1,49 @@
-## Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm [Harshad Ekawade!](https://github.com/harshadekawade)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=4493F8&width=510&lines=With+3%2B+Years+of+experience+in+IT+industry;Full+Stack+%7C+Mobile+App+%7C+Web+Development;Always+learning+new+things" alt="Typing SVG" /></a>
+<hr/>
+### 🔥 Streak Stats
 
-<!--
-**harshadekawade/harshadekawade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username=harshadekawade&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshadekawade&theme=blueberry_duo"/>
+|---|---|
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshadekawade&layout=compact&&theme=github_dark"/>|
 
-Here are some ideas to get you started:
+## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
+### 👉 &nbsp;Mobile App Developement
+![Flutter](https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white)&nbsp;
+![Android](https://img.shields.io/badge/android-34A853?style=flat-square&logo=android&logoColor=white)&nbsp;
+![IOS](https://img.shields.io/badge/ios-000000?style=flat-square&logo=apple&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👉 &nbsp;Web Developement
+![PHP](https://img.shields.io/badge/php-%23556096.svg?style=flat-square&logo=php&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![JQuery](https://img.shields.io/badge/JQuery-%23106daf.svg?style=flat-square&logo=JQuery&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)&nbsp;
+
+### 👉 &nbsp;Database
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)&nbsp;
+![BigRock](https://img.shields.io/badge/postgresql-%234169E1.svg?style=flat-square&logo=postgresql&logoColor=white)&nbsp;
+
+### 👉 &nbsp;Hosting Provider
+![Hostinger](https://img.shields.io/badge/hostinger-%23673DE6.svg?style=flat-square&logo=hostinger&logoColor=white)&nbsp;
+![Godaddy](https://img.shields.io/badge/Godaddy-%231BDBDB.svg?style=flat-square&logo=Godaddy&logoColor=white)&nbsp;
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)&nbsp;
+
+### 👉 &nbsp;Cloud
+![Firebase](https://img.shields.io/badge/firebase-%23de3308.svg?style=flat-square&logo=firebase&logoColor=white)&nbsp;
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)&nbsp;
+
+### 👉 &nbsp;UI Design
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)&nbsp;
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-%23390808.svg?style=flat-square&logo=adobeillustrator&logoColor=ff9d08)&nbsp;
+![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=flat-square&logo=adobephotoshop&logoColor=white)&nbsp;
+
+### 👉 &nbsp;Other
+![RHEL](https://img.shields.io/badge/RHEL-%23EE0000.svg?style=flat-square&logo=redhat&logoColor=white)&nbsp;
+![Apache](https://img.shields.io/badge/apache-%23D22128.svg?style=flat-square&logo=apache&logoColor=white)&nbsp;
+![Manual SSL](https://img.shields.io/badge/Manual%20SSL-%2334A853.svg?style=flat-square&logoColor=white)&nbsp;
+![WebSocket](https://img.shields.io/badge/web%20socket-%234285F4.svg?style=flat-square&logoColor=white)&nbsp;
