@@ -2,12 +2,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&vCenter=true&pause=1000&color=4493F8&width=510&lines=With+3%2B+Years+of+experience+in+IT+industry;Mobile+App+%7C+Web+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
 <hr/>
 
-### 🔥 Streak Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshadekawade&theme=transparent"/>
+### 🔥 Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshadekawade&layout=compact&theme=transparent&card_width=495&hide_title=true"/>
 
 ### 🚀 Github Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshadekawade&layout=compact&theme=transparent"/>|<img src="https://github-readme-stats.vercel.app/api?username=harshadekawade&&show_icons=true&count_private=true&theme=transparent">
-|---|---|
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshadekawade&theme=transparent"/>&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=harshadekawade&&show_icons=true&count_private=true&theme=transparent">
 
 ### 🏆 Certification
 |[![](https://img.shields.io/badge/HTML%20Fundamental-red?style=for-the-badge)](https://github.com/harshadekawade/harshadekawade/blob/main/SoloLearn/HTML_certificate.jpg)|[![](https://img.shields.io/badge/CSS%20Fundamental-blue?style=for-the-badge)](https://github.com/harshadekawade/harshadekawade/blob/main/SoloLearn/CSS_certificate.jpg)|[![](https://img.shields.io/badge/PHP%20Tutorials-green?style=for-the-badge)](https://github.com/harshadekawade/harshadekawade/blob/main/SoloLearn/PHP_certificate.jpg)|[![](https://img.shields.io/badge/SQL%20Fundamental-orange?style=for-the-badge)](https://github.com/harshadekawade/harshadekawade/blob/main/SoloLearn/SQL_certificate.jpg)|
