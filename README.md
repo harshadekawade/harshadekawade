@@ -35,8 +35,8 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)&nbsp;
 
 #### 👉 &nbsp;Database
-![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)&nbsp;
-![BigRock](https://img.shields.io/badge/postgresql-%234169E1.svg?style=flat-square&logo=postgresql&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=flat-square&logo=MySQL&logoColor=white)&nbsp;
+![BigRock](https://img.shields.io/badge/postgresql-%234169E1.svg?style=flat-square&logo=PostgreSQL&logoColor=white)&nbsp;
 
 #### 👉 &nbsp;Hosting Provider
 ![Hostinger](https://img.shields.io/badge/hostinger-%23673DE6.svg?style=flat-square&logo=hostinger&logoColor=white)&nbsp;
