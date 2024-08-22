@@ -9,8 +9,8 @@
 
 <table>
   <tr style="border:none !important;padding: 6px 0px;">
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=harshadekawade&theme=transparent"/>&nbsp;</td>
-    <td>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=harshadekawade&&show_icons=true&count_private=true&theme=transparent"></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=harshadekawade&theme=transparent"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=harshadekawade&&show_icons=true&count_private=true&theme=transparent"></td>
   </tr>
 </table>
 
