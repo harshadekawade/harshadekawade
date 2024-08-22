@@ -8,12 +8,11 @@
 ### 🚀 Github Stats
 
 <table>
-  <tr style="border:none !important;padding: 6px 0px;">
+  <tr>
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=harshadekawade&theme=transparent"/></td>
     <td><img src="https://github-readme-stats.vercel.app/api?username=harshadekawade&&show_icons=true&count_private=true&theme=transparent"></td>
   </tr>
 </table>
-
 
 ### 🏆 Certification
 <a target="_blank" href="https://github.com/harshadekawade/harshadekawade/blob/main/SoloLearn/HTML_certificate.jpg"><img src="https://img.shields.io/badge/HTML%20Fundamental-red?style=for-the-badge"></img></a>|<a target="_blank" href="https://github.com/harshadekawade/harshadekawade/blob/main/SoloLearn/CSS_certificate.jpg"><img src="https://img.shields.io/badge/CSS%20Fundamental-blue?style=for-the-badge"></img></a>|<a target="_blank" href="https://github.com/harshadekawade/harshadekawade/blob/main/SoloLearn/PHP_certificate.jpg"><img src="https://img.shields.io/badge/PHP%20Tutorials-green?style=for-the-badge"></img></a>|<a target="_blank" href="https://github.com/harshadekawade/harshadekawade/blob/main/SoloLearn/SQL_certificate.jpg"><img src="https://img.shields.io/badge/SQL%20Fundamental-orange?style=for-the-badge"></img></a>
