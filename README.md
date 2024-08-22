@@ -6,7 +6,14 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshadekawade&layout=compact&theme=transparent&card_width=495&hide_title=true"/>
 
 ### 🚀 Github Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshadekawade&theme=transparent"/>&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=harshadekawade&&show_icons=true&count_private=true&theme=transparent">
+
+<table>
+  <tr style="border:none !important;padding: 6px 0px;">
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=harshadekawade&theme=transparent"/>&nbsp;</td>
+    <td>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=harshadekawade&&show_icons=true&count_private=true&theme=transparent"></td>
+  </tr>
+</table>
+
 
 ### 🏆 Certification
 |[![](https://img.shields.io/badge/HTML%20Fundamental-red?style=for-the-badge)](https://github.com/harshadekawade/harshadekawade/blob/main/SoloLearn/HTML_certificate.jpg)|[![](https://img.shields.io/badge/CSS%20Fundamental-blue?style=for-the-badge)](https://github.com/harshadekawade/harshadekawade/blob/main/SoloLearn/CSS_certificate.jpg)|[![](https://img.shields.io/badge/PHP%20Tutorials-green?style=for-the-badge)](https://github.com/harshadekawade/harshadekawade/blob/main/SoloLearn/PHP_certificate.jpg)|[![](https://img.shields.io/badge/SQL%20Fundamental-orange?style=for-the-badge)](https://github.com/harshadekawade/harshadekawade/blob/main/SoloLearn/SQL_certificate.jpg)|
