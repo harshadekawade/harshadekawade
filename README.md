@@ -41,6 +41,7 @@
 #### 👉 &nbsp;Hosting Provider
 ![Hostinger](https://img.shields.io/badge/hostinger-%23673DE6.svg?style=flat-square&logo=hostinger&logoColor=white)&nbsp;
 ![Godaddy](https://img.shields.io/badge/Godaddy-%231BDBDB.svg?style=flat-square&logo=Godaddy&logoColor=white)&nbsp;
+![cPanel](https://img.shields.io/badge/cPanel-%23FF6C2C.svg?style=flat-square&logo=cpanel&logoColor=white)&nbsp;
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)&nbsp;
 
 #### 👉 &nbsp;Cloud
@@ -56,7 +57,7 @@
 ![RHEL](https://img.shields.io/badge/RHEL-%23EE0000.svg?style=flat-square&logo=redhat&logoColor=white)&nbsp;
 ![Apache](https://img.shields.io/badge/apache-%23D22128.svg?style=flat-square&logo=apache&logoColor=white)&nbsp;
 ![Manual SSL](https://img.shields.io/badge/Manual%20SSL-%2334A853.svg?style=flat-square&logoColor=white)&nbsp;
-![WebSocket](https://img.shields.io/badge/web%20socket-%234285F4.svg?style=flat-square&logoColor=white)&nbsp;
+![WebSocket](https://img.shields.io/badge/Web%20socket-%234285F4.svg?style=flat-square&logoColor=white)&nbsp;
 <hr>
 <a target="_blank" href="https://www.linkedin.com/in/harshad-ekawade-74720122a"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:harshadekawade@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
