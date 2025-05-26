@@ -1,5 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm [Harshad Ekawade!](https://github.com/harshadekawade)
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&vCenter=true&pause=1000&color=4493F8&width=510&lines=With+3%2B+Years+of+experience+in+IT+industry;Mobile+App+%7C+Web+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&vCenter=true&pause=1000&color=4493F8&width=510&lines=With+4+Years+of+experience+in+IT+industry;Mobile+App+%7C+Web+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
 <hr/>
 
 ### 🔥 Most Used Languages
